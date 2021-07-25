@@ -1,6 +1,5 @@
 package com.choimory.pagingstrategywithquerydsl.common.exception;
 
-import com.choimory.pagingstrategywithquerydsl.common.exception.custom.CommonCustomException;
 import com.choimory.pagingstrategywithquerydsl.common.response.code.CommonResponseCode;
 import com.choimory.pagingstrategywithquerydsl.common.response.dto.CommonResponseDto;
 import org.springframework.http.HttpStatus;

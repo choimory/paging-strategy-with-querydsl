@@ -1,4 +1,4 @@
-package com.choimory.pagingstrategywithquerydsl.common.exception.custom;
+package com.choimory.pagingstrategywithquerydsl.common.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
