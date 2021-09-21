@@ -1,4 +1,4 @@
-package com.choimory.pagingstrategywithquerydsl.board.util;
+package com.choimory.pagingstrategywithquerydsl.board.repository.querydsl.expression;
 
 import com.querydsl.core.types.dsl.BooleanExpression;
 import com.sun.xml.bind.v2.model.core.EnumLeafInfo;
